@@ -1,1 +1,1 @@
-web: gunicorn wttdnew.wsgi --log-file  -
+web: gunicorn wttdnew.wsgi --log-file -
