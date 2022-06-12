@@ -1,0 +1,1 @@
+web: gunicorn wttdnew.wsgi --log-file -
